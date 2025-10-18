@@ -50,7 +50,7 @@ Copy code
 pip install selenium
 Cài WebDriver (ví dụ: ChromeDriver):
 
-Tải tại: https://chromedriver.chromium.org/downloads
+Tải tại: https:/chromedriver.chromium.org
 
 Giải nén và đặt cùng thư mục với file test_login_form.py
 
