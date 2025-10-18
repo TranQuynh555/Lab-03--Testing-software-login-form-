@@ -1,6 +1,4 @@
 # Lab-03--Testing-software-login-form-
-# 🧪 LAB03 - LOGIN FORM TEST (Selenium)
-
 ## 1. Giới thiệu
 
 Dự án **LAB03-LOGIN-FORM** là ví dụ về một form đăng nhập cơ bản, được kiểm thử bằng **Selenium (Python)**.  
