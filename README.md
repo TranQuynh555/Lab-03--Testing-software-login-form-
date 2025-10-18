@@ -85,3 +85,5 @@ Khi chạy xong, hệ thống sẽ tự động mở trình duyệt, nhập dữ
 
 ## 5. Sơ đồ Use Case
 
+
+![Sơ đồ Use Case](https://github.com/TranQuynh555/Lab-03--Testing-software-login-form-/blob/8d7430fc242732c7f9ab4d2976fd6858b00f7e71/usecase.png?raw=true)
